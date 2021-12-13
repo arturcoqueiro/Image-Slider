@@ -1,0 +1,24 @@
+.slide-container{
+    width: 1366px;
+    height: 768px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.img-container{
+    width: 4098px;
+    height: 768px;
+    position: relative;
+    transition: left 2s;
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
+}
+
+.imgs{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
